@@ -4,3 +4,4 @@ ES6练习demo
 目录：
 ----
 * proxy代理
+* promise运用
