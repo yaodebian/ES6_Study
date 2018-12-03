@@ -1,7 +1,11 @@
 # ES6_Study
 ES6练习demo
 
-目录：
+Demo练习目录（demoJs）：
 ----
-* proxy代理
-* promise运用
+* proxy代理: proxy.js
+* promise运用: promise.js
+
+ES6源码探究目录（ES6_sourcecode_analyse）：
+----
+
