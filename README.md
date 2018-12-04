@@ -8,4 +8,4 @@ Demo练习目录（demoJs）：
 
 ES6源码探究目录（ES6_sourcecode_analyse）：
 ----
-
+* Promise原理探究: Promise_Code_By_Js
